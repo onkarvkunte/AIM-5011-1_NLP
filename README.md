@@ -37,6 +37,7 @@ The system architecture involves three primary models:
 3. **Sentiment Analysis Model**: Evaluates the emotional sentiment of the translated text.
 
 ## Data
+![Alt Text](images/Screenshot 2024-12-04 150153.png)
 
 We utilized multiple datasets, including:
 - ASL hand landmark data from a Kaggle competition.
