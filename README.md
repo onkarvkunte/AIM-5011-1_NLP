@@ -1,8 +1,6 @@
 # AIM-5011-1_NLP
 
-Here’s a suggested README for your GitHub repository based on your paper:
 
----
 
 # Multimodal Approach for Enhancing ASL-to-Text Translation
 
@@ -85,6 +83,4 @@ Data preprocessing involved consolidating hand landmarks and corresponding phras
 - Reiyo (Yeshiva University)
 - Shashidhar Reddy (Yeshiva University)
 
----
 
-Feel free to customize this further or let me know if you'd like additional edits!
