@@ -39,6 +39,7 @@ The system architecture involves three primary models:
 ## Data
 ![Alt Text](images/Screenshot 2024-12-04 150153.png)
 
+
 We utilized multiple datasets, including:
 - ASL hand landmark data from a Kaggle competition.
 - Custom-annotated datasets for sentiment analysis.
