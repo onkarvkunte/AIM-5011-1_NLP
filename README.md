@@ -30,7 +30,7 @@ This project addresses the profound isolation experienced by the deaf and mute c
 - High accuracy achieved using advanced deep learning techniques.
 
 ## Methodology
-
+![Alt Text](images/architecture.png)
 The system architecture involves three primary models:
 1. **ASL Audio Transformer**: Converts ASL gestures into text using a custom Transformer model.
 2. **Sentence Correction Model**: Refines textual outputs to ensure grammatical and contextual accuracy.
@@ -61,7 +61,7 @@ Data preprocessing involved consolidating hand landmarks and corresponding phras
    - Achieved 79% sentiment classification accuracy.
 
 ## Results
-
+![Alt Text](images/training.png)
 - Real-time ASL-to-text translation with high accuracy.
 - Enhanced sentence coherence and contextual alignment.
 - Accurate sentiment recognition across positive, negative, and neutral expressions.
