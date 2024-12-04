@@ -52,7 +52,7 @@ Data preprocessing involved consolidating hand landmarks and corresponding phras
 1. **ASL Audio Transformer**:
    - Utilizes a Transformer architecture with custom embeddings for hand landmarks.
    - Measures accuracy using Levenshtein Distance.
-
+![Alt Text](images/model.png)
 2. **Sentence Correction Model**:
    - Combines Encoder-Decoder architecture and GPT-2 for refined output.
 
